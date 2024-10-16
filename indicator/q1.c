@@ -1,4 +1,4 @@
-//
+//Develop a program that finds the length of a string using a pointer.
 #include<stdio.h>
 int main(){
 	char *ptr;
